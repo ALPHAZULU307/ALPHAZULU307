@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ALPHAZULU307
 - 👀 I’m interested in ... Learning more about linux, coding, and over all computer interworkings 
+- still learning
 - 🌱 I’m currently learning ... Basics of ubuntu/terminals
 - 💞️ I’m looking to collaborate on ... Not sure yet
 - 📫 How to reach me ... kholtin54@gmail.com
